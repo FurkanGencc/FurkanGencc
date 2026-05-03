@@ -34,14 +34,6 @@ I enjoy building real-time systems that understand and interpret visual data.
 - Hand detection & finger counting  
 - Face detection  
 - Real-time processing  
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FurkanGencc&show_icons=true)
-
 ---
 
 ## 📫 Contact Me
