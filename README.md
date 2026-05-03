@@ -38,7 +38,7 @@ I enjoy building real-time systems that understand and interpret visual data.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FurkanGencc&show_icons=true)
 
 ---
 
