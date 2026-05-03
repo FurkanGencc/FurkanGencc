@@ -40,7 +40,7 @@ I enjoy building real-time systems that understand and interpret visual data.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FurkanGencc&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FurkanGencc&show_icons=true)
 
 ---
 
