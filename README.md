@@ -39,3 +39,4 @@ I enjoy building real-time systems that understand and interpret visual data.
 ## 📫 Contact Me
 - LinkedIn:https://www.linkedin.com/in/furkan-genç-9b0784228/
 - Email:furkann.gencc7@gmail.com
+- Personal Website:https://furkangencc.github.io/
